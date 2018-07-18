@@ -57,6 +57,7 @@ HAI 1.4
     OIC
   IF U SAY SO
 
+  VISIBLE "CAN I HAZ CALCULESHUN?"
   I HAS A term
   GIMMEH  term
 
